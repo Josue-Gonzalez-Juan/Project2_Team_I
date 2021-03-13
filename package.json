@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Josue-Gonzalez-Juan/Project2_Team_I#readme",
   "devDependencies": {
+    "node": "^15.10.0",
+    "npm": "^7.6.3",
     "react": "^17.0.1"
   }
 }
