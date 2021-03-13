@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Josue-Gonzalez-Juan/Project2_Team_I/issues"
   },
-  "homepage": "https://github.com/Josue-Gonzalez-Juan/Project2_Team_I#readme"
+  "homepage": "https://github.com/Josue-Gonzalez-Juan/Project2_Team_I#readme",
+  "devDependencies": {
+    "react": "^17.0.1"
+  }
 }
